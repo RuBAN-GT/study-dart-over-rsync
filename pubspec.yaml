@@ -1,0 +1,5 @@
+name: easybackup
+dependencies:
+  args: "^1.2.0"
+  path: "^1.5.1"
+  yaml: "^2.1.13"

@@ -1,0 +1,12 @@
+host:
+port:
+user: user
+exclude:
+  - tmp
+  - .tmp
+  - logs
+  - _gsdata_
+  - node_modules
+schemes:
+  - source: /home/user/Documents/Books/
+    destination: /home/user/Documents/Books
